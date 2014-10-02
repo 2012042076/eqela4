@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# eqela4
+#
+
+projectname: eqela4
+vendorid: com.tan.example
+mainmodule: com.tan.example.eqela4
